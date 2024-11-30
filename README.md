@@ -1,11 +1,28 @@
-About Me ... I love markdown more than food.\
- foods
+# **Hello World**
 
-| foods  | languages  |
-|-----|-----|
+## This is Hafiz Hussein
 
-| no thank you | markdown please |
+_A computer science student_ Who is passionate about becoming a computer scientist
 
-<!-
+---
+---
 
-# Good Bye cjsdfuighg
+| Technical SKills| Conversational Skills|
+|--------------------|--------------------|
+|Python | English|
+|C++     | Arabic|
+|SQL     | Swahili|
+
+_Was born in Sudan, lived in Kenya for about 10 years._
+
+ ### Countries Visited
+
+ ---
+
+* South Sudan, Kenya, Uganda
+* USA, Canada, France, Cuba
+* United Arab Emirates, Qatar, Egypt
+
+---
+---
+Reach Me at <hafizhussein17@gmail.com>
