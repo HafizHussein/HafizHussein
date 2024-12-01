@@ -28,3 +28,5 @@ _Was born in Sudan, lived in Kenya for about 10 years._
 ---
 ---
 Reach Me at <hafizhussein17@gmail.com>
+
+-[Connect in Linkedin](https://www.linkedin.com/in/hafiz-hussein-a21035296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcMU73HHXRs6YVCVqu3Ul0Q%3D%3D)
